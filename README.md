@@ -1,5 +1,5 @@
 Hi, I'm Vaibhav Dagade, a passionate self-taught Window, Andriod and Web developer and a freelance software engineer from India.</br>
-Such divese expeience always give me confident to create vision and well understand customer's requirement and which help me provide effiecient solution to the organization.
+Such divese domain expeience always give me confident to create vision and well understand customer's requirement and which help me provide effiecient solution to the organization.
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</br>
 I take great care in the experience, architecture, and code quality of the things I build.
 
